@@ -1,0 +1,103 @@
+
+tiles.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+00
+  rotate: false
+  xy: 1, 135
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 1, 68
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 103, 135
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 1, 1
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 103, 68
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 205, 135
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 103, 1
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 205, 68
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 307, 135
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 205, 1
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 307, 68
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 409, 135
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 307, 1
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 409, 68
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1

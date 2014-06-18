@@ -1,0 +1,54 @@
+
+trees.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+02
+  rotate: false
+  xy: 1, 1
+  size: 19, 48
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 22, 1
+  size: 19, 48
+  orig: 19, 48
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 43, 8
+  size: 11, 41
+  orig: 11, 41
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 56, 13
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 72, 13
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 88, 17
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 101, 17
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
